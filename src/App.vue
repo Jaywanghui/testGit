@@ -6,7 +6,7 @@
 </template>
 
 <script>
-// Hello World  阿萨德
+// Hello World 
 import Table from './components/Table'
 import CheckBox from "./components/checkbox"
 
